@@ -1,11 +1,9 @@
-# Funcionalidades
+# Proffy - Server
 
-## Conexões
-- Rota para listar o total de conexões realizadas;
-- Rota para criar uma conexão;
+This project was developed during the one week course "Next Level Week - Rocketseat".
 
-## Aulas
-- Rota para criar uma aula;
-- Rota para listar aulas;
-  - Filtrar por matéria, dia da semana e horário;
+## Technologies used:
 
+- Noje JS
+- Typescript
+- Raect JS
